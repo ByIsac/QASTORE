@@ -32,6 +32,13 @@ class InformationPage {
 
     }
 
+    DeleteCupom (){
+
+        cy.get(el.DeleteCupomel)
+        .click();
+
+    }
+
 
 
 
