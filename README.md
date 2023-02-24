@@ -7,9 +7,9 @@
 
 Clone o repositório na sua máquina usando:
 
-´´´
+```
 git clone https://github.com/ByIsac/QASTORE.git
-´´´
+```
 
 # 📁 Acesso ao projeto
 
@@ -21,14 +21,18 @@ git clone https://github.com/ByIsac/QASTORE.git
 
 Lembre-se entrar na pasta do projeto e instalar as depedências com
 
+```
 **npm install cypress --save-dev**
+```
 
 ![1](https://user-images.githubusercontent.com/126215076/221088669-2e496063-091d-41a3-b7fc-24ff7fd5b084.png)
 
 
 ainda dentro da pasta do projeto, para abrir a interface do Cypress use o comando
 
+```
 **npx cypress open**
+```
 
 ![2](https://user-images.githubusercontent.com/126215076/221088957-b6c6f273-d8da-46de-9bb9-97d5dbe1a6e2.png)
 
