@@ -7,7 +7,7 @@
 
 Clone o repositório na sua máquina usando:
 
-git clone https://github.com/ByIsac/QASTORE.git
+´´´git clone https://github.com/ByIsac/QASTORE.git´´´
 
 # 📁 Acesso ao projeto
 
