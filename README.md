@@ -5,6 +5,10 @@
 
 # :hammer: Preparar o ambiente para rodar o teste
 
+Clone o repositório na sua máquina usando:
+
+git clone https://github.com/ByIsac/QASTORE.git
+
 # 📁 Acesso ao projeto
 
 **O passo a passo para executar o Cypress é bem simples, será necessário que você tenha Node instalado previamente.**
